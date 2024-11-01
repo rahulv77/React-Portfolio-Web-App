@@ -40,7 +40,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Mumbai, Maharashtra",
   phoneNo: "+91 7888191616 ",
   email: "rahulvernekar777@gmail.com",
 };
